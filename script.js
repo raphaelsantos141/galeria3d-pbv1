@@ -1,5 +1,5 @@
 const models = [
-    { src: 'model1.glb', alt: 'Aug A3 PBIC' },
+    { src: '../models/AugA3/AugA3Teste.glb', alt: 'Aug A3 Teste' },
     { src: 'model2.glb', alt: 'Modelo 2' },
     { src: 'model3.glb', alt: 'Modelo 3' },
     { src: 'model4.glb', alt: 'Modelo 4' },
